@@ -1,2 +1,4 @@
+O my god!
 print("Hello world!");
 print("Hi world!");
+print("Hello all!");
