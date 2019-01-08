@@ -1,7 +1,1 @@
-O my god!
-print("Hello world!");
-print("Hi world!");
-print("Hello all!");
-print("Hello world!");
-print("Hi world!");
-print("Hello all!");
+print("Hello world an dear friends!");
